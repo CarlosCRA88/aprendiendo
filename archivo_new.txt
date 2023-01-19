@@ -1,2 +1,5 @@
 caca peluda
 caca lampiña
+
+git checkout -b NombreDeLaRama
+git push -u origin NombreDeLaRama
