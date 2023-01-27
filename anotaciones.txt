@@ -6,6 +6,6 @@ git commit -m "Descripcion"
 
 code + ("nombre del archivo") //modificar un archivo
 
-git push -u origin NombreDeLaRama // 
+git checkout -b NombreDeLaRama //Crear Rama
 
-git checkout -b NombreDeLaRama
+git push -u origin NombreDeLaRama // 
