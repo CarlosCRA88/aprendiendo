@@ -8,4 +8,6 @@ code + ("nombre del archivo") //modificar un archivo
 
 git checkout -b NombreDeLaRama //Crear Rama
 
-git push -u origin NombreDeLaRama // 
+git log --oneline //Historial
+
+git push -u origin NombreDeLaRama //
