@@ -10,6 +10,6 @@ git log --oneline //Historial
 
 git checkout -b NombreDeLaRama //Crear Rama
 
-git merge "NombreDeLaRama" //Traer todos los cambios
+git merge "NombreDeLaRama" //Traer todos los cambios a la rama master
 
 git push -u origin NombreDeLaRama //
