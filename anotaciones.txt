@@ -12,4 +12,4 @@ git checkout -b NombreDeLaRama //Crear Rama
 
 git merge "NombreDeLaRama" //Traer todos los cambios a la rama master
 
-git push -u origin NombreDeLaRama //
+git push -u origin NombreDeLaRama //Mandar los cambios a GitHub
