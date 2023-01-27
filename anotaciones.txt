@@ -1,7 +1,3 @@
-caca peluda
-caca lampiña
-
-
 git status //Checar estatus de los archivos
 
 git add + ("Nombre del archivo a seguir) //seleccionar los archivos
