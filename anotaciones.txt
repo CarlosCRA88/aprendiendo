@@ -6,8 +6,10 @@ git commit -m "Descripcion"
 
 code + ("nombre del archivo") //modificar un archivo
 
+git log --oneline //Historial
+
 git checkout -b NombreDeLaRama //Crear Rama
 
-git log --oneline //Historial
+git merge "NombreDeLaRama" //Traer todos los cambios
 
 git push -u origin NombreDeLaRama //
