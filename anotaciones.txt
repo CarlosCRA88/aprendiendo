@@ -6,7 +6,7 @@ git status //Checar estatus de los archivos
 
 git add + ("Nombre del archivo a seguir) //seleccionar los archivos
 
-git commit -m "Descripcion" // Para que los cambios se suban
+git commit 
 
 code + ("nombre del archivo") //modificar un archivo
 
